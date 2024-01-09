@@ -1,3 +1,5 @@
+# HOST AT YOUR OWN RISK! THIS PROJECT IS MADE ONLY FOR FUN!!!
+
 # TRXAUTOPAYJEEZBOT - chat bot
 It is repository for chat bot: [@TRXAUTOPAYJEEZBOT](https://t.me/TRXAUTOPAYJEEZBOT)
 
